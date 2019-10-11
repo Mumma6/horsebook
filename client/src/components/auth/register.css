@@ -1,0 +1,14 @@
+.register-main {
+  margin-top: 200px;
+}
+.btn-back {
+  text-decoration: none;
+  color: white;
+  margin-top: 20px;
+}
+
+.btn-back :hover {
+  text-decoration: none;
+  color: white;
+}
+

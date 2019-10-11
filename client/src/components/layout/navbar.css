@@ -1,0 +1,42 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  background-color: rgb(238, 151, 69);
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar link {
+  padding: 0.45rem;
+  margin: 0 0.25rem;
+}
+.navbar li {
+  font-size: 1.5rem;
+}
+.navbar li:hover {
+  color: #b9ecb9;
+  cursor: pointer;
+}
+.navbar-toggler-icon-line {
+  width: 36px;
+  height: 4px;
+  margin: 0 0 5px 0;
+  background: #b9ecb9;
+}
+
+.nav-link {
+  color: #333333;
+  text-decoration: none;
+  font-size: 50px;
+  cursor: pointer;
+  font-family: "Courgette", cursive;
+}
+.navbar a :hover {
+  color: #b9ecb9;
+  cursor: pointer;
+}

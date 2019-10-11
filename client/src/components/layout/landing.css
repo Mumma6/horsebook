@@ -1,0 +1,14 @@
+.landing {
+  margin-top: 200px;
+}
+
+.landing-btn {
+  justify-content: center;
+  text-align: center;
+  
+  padding: 10px;
+}
+
+.landing-btn a {
+  margin: 20px;
+}
